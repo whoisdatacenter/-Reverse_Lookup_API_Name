@@ -1,7 +1,9 @@
-**Contributing to the Domain-Reverse-Lookup-API Project**
+# Contributing to the Domain-Reverse-Lookup-API Project
+__
 Thank you for your interest in contributing to our Name Reverse Lookup API project! This project aims to create a comprehensive and accessible list of names available through our API. Contributions from the community are essential to keep our database rich, current, and useful for everyone.
 
-**How to Contribute**
+# How to Contribute
+__
 Familiarize Yourself with the Project: Before contributing, please take some time to go through the existing list of domains in our repository. This will give you an idea of what has already been added and what might still be needed.
 
 ---
