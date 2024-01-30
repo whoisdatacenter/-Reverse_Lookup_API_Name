@@ -1,0 +1,16 @@
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+
+class Program {
+static async Task Main() {
+string apiKey = "place_your_api_key_here";
+string name = "example";
+string apiUrl = $"https://api.whoisdatacenter.com/v1/name?apiKey={apiKey}&name={name}";
+
+using (HttpClient client = new HttpClient()) {
+string response = await client.GetStringAsync(apiUrl);
+Console.WriteLine(response);
+}
+}
+}
