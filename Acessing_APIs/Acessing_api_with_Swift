@@ -1,0 +1,10 @@
+import Foundation
+
+let apiKey = "place_your_api_key_here"
+let name = "example"
+let apiUrl = URL(string: "https://api.whoisdatacenter.com/v1/name?apiKey=\(apiKey)&name=\(name)")!
+
+let data = try! Data(contentsOf: apiUrl)
+let result = try! JSONSerialization.jsonObject(with: data, options: []) as! [String: Any]
+
+print(result)
