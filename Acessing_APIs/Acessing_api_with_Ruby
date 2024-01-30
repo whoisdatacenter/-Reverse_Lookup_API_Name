@@ -1,0 +1,10 @@
+require 'net/http'
+require 'json'
+
+api_key = 'place_your_api_key_here'
+name = 'example'
+api_url = "https://api.whoisdatacenter.com/v1/name?apiKey=#{api_key}&name=#{name}"
+
+response = Net::HTTP.get(URI(api_url))
+data = JSON.parse(response)
+puts data
