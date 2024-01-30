@@ -2,7 +2,7 @@
 The Name Reverse Lookup API is an innovative tool designed to extract names from domain-related information with precision and efficiency. Tailored for users who need to glean personal or business contact names from various online domains, this API stands out for its accuracy and ease of use.
 
 ___
-# Welcome to Reverse Lookup API
+# Welcome to Name Reverse Lookup API
 **Introduction**
  <br />
  
@@ -82,7 +82,7 @@ ___
 <br/>
 
  **🔗 Don't Miss Out! Click here to explore:** 
-# https://whoisdatacenter.com/api-documentation/#email-api
+ # https://whoisdatacenter.com/api-documentation/#name-api
 
 **Unlock the full potential of domain data analytics with just one click!**
 
