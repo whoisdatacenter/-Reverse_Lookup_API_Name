@@ -13,7 +13,7 @@ ___
  <br />
 ___
 
-**Features**
+# Features
 <br />
 
 •Name Extraction from Domains: Extract names efficiently and accurately from domain information.
