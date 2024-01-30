@@ -31,10 +31,10 @@ ___
  <div >
     <sub>The Project</sub>
     <br />
-    <a href="Contributing/contribute.md">Contributing Guide</a> •
-    <a href="Acessing_api">Acessing_APIs in different languages</a> •
-    <a href="License.md">License</a> •
-    <a href="Output/output.txt">Output</a> •
+    <a href="Contributing Guide/Contributing Guide.md">Contributing Guide</a> •
+    <a href="Acessing_APIs">Acessing_APIs in different languages</a> •
+    <a href="License/License.md">License</a> •
+    <a href="Output/Output.md">Output</a> •
     <br />
 
 ___
