@@ -38,7 +38,7 @@ ___
     <br />
 
 ___
-**Name Lookup API Endpoint:**
+# Name Lookup API Endpoint:
 
 ```
 POST/GET https://api.whoisdatacenter.com/v1/name
