@@ -11,8 +11,11 @@ ___
  
 •Our goal is to provide an easy-to-use, accurate, and fast solution for name extraction, enabling users to gain insights into the contacts associated with various online domains. With Reverse Lookup API, you can streamline your data collection processes, enhance your lead generation efforts, and gain valuable insights into domain ownership and affiliations.
  <br />
+___
 
 **Features**
+<br />
+
 •Name Extraction from Domains: Extract names efficiently and accurately from domain information.
  <br />
  
@@ -34,7 +37,7 @@ ___
     <a href="Output/output.txt">Output</a> •
     <br />
 
-
+___
 **Name Lookup API Endpoint:**
 
 ```
@@ -46,7 +49,7 @@ POST/GET https://api.whoisdatacenter.com/v1/name
 }
 
 ```
-
+___
 **Want more free API for Domains Related Data***
 <br/>
 
@@ -62,13 +65,13 @@ POST/GET https://api.whoisdatacenter.com/v1/name
 <br/>
 
 
-
+___
 
 **🌟 Exclusive : Dive Deeper into Domain Data! 🌟**
 
 **Visit Our Website**
----
 
+___
 •More Data: Access a wider range of domain-related data.
 <br/>
 
@@ -120,7 +123,7 @@ Easy Integration: Seamlessly integrate with your GitHub projects.
 Secure and Reliable: Prioritizing your data's security and API's uptime.
 <br/>
 
-
+___
 
 
 **🌟 Join the Community of Developers who are already benefiting from this offer!**
@@ -132,7 +135,7 @@ Terms and conditions apply. Offer valid for a limited time.
 
 
 
-
+___
 
 # IMPORTANT INFORMATION
 
