@@ -1,0 +1,8 @@
+#!/bin/bash
+
+api_key='place_your_api_key_here'
+name='John Doe' # Replace with the name you want to look up
+api_url="https://api.whoisdatacenter.com/v1/name?apiKey=${api_key}&name=${name}"
+
+response=$(curl -s $api_url)
+echo $response
