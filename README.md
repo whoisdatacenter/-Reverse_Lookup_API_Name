@@ -6,10 +6,10 @@ ___
 **Introduction**
  <br />
  
-•Welcome to the Name Reverse Lookup API project! This API is designed as a powerful and efficient tool for extracting names from domain-related information. Whether you're a digital marketer, a sales professional, a researcher, or just someone curious about the data behind domains, this API is crafted to meet your needs.
+**•Welcome to the Name Reverse Lookup API project! This API is designed as a powerful and efficient tool for extracting names from domain-related information. Whether you're a digital marketer, a sales professional, a researcher, or just someone curious about the data behind domains, this API is crafted to meet your needs.**
  <br />
  
-•Our goal is to provide an easy-to-use, accurate, and fast solution for name extraction, enabling users to gain insights into the contacts associated with various online domains. With Reverse Lookup API, you can streamline your data collection processes, enhance your lead generation efforts, and gain valuable insights into domain ownership and affiliations.
+**•Our goal is to provide an easy-to-use, accurate, and fast solution for name extraction, enabling users to gain insights into the contacts associated with various online domains. With Reverse Lookup API, you can streamline your data collection processes, enhance your lead generation efforts, and gain valuable insights into domain ownership and affiliations.**
  <br />
 ___
 
